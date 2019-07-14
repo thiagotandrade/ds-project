@@ -1,2 +1,2 @@
-<h1> ds_project </h1>
-<h2> Repository for discipline Data Science 2019.1, CIn - UFPE </h2>
+<h1> zillow_prize </h1>
+<h2> Preprocessing, EDA and machine learning prediction models for Zillow Prize Kaggle competition. </h2>
